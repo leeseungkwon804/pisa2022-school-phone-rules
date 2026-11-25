@@ -42,7 +42,6 @@ Run in this order. `12_fix.py` produces the main estimates for both papers on on
 | `code/15_dose2.py` | the three tests that dismantle the dose response | B Section 4.2 |
 | `code/30_identify.py` | Oster bound, equivalence test, split-school meta-regression, country inclusion audit, the six device items jointly, person-centred outcomes, the discretion moderator | A Sections 3.2, 4.2, 4.4; B Sections 4.3, 4.4 |
 | `code/31_acq.py` | the placebo batteries | B Section 4.3, Table S7 |
-| `code/11_extra.py` | supporting estimates referenced in the supplementary material | both |
 | `code/20_figsA.py`, `code/21_figsB.py`, `code/32_figsB34.py` | figures | both |
 
 Country comparisons use weighted within-country centring rather than indicator variables. The two are algebraically equivalent; the first is about forty times faster at this scale, which matters when each estimate requires 810 weighted fits.
@@ -77,7 +76,6 @@ See `CHANGELOG.md` for what these corrected and by how much.
 | `dose_20261124.json`, `dose2_20261124.json` | the regulation count, and the tests that dismantle it |
 | `ident_20261125.json` | Oster, equivalence, split-school refits, inclusion audit, six items, person-centred, discretion |
 | `acq_20261125.json` | every placebo item with its estimate |
-| `extra_20261124.json` | supporting estimates |
 
 ## Licence
 

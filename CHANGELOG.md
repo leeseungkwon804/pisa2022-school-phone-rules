@@ -20,6 +20,10 @@ Effect: the analytic sample falls from 264,770 to 243,148 students for Paper A a
 
 The continued-fraction branch of the regularised incomplete gamma function initialised `c` to `FPMIN` instead of `1/FPMIN`, returning values of order 1e297 instead of a probability. This affected one printed statistic, the Wald test that all six device-regulation items carry the same coefficient, which was reported as `p = 5.6e+297` and interpreted as "not rejected". The correct value is chi-square 12.71 on 5 degrees of freedom, p = 0.026, and the hypothesis of a uniform shift **is** rejected. Corrected in `30_identify.py`; the test is now verified against four known values at import.
 
+### A superseded script removed
+
+`11_extra.py` and its output `extra_20261124.json` are removed rather than corrected. The script carried the same `NaN` to `0.0` coding error and its output still described 48 countries and 276,744 students. Everything it computed — the six policies mutually adjusted, the raw response distribution, the observed means by rule count, the effect-size benchmark, the between-school variance share, and the country-specific estimates with replicate standard errors — is recomputed correctly in `12_fix.py` and `13_country.py` and released in `fixed_20261124.json` and `paperB_country_brr.csv`.
+
 ### Separately: a claim withdrawn
 
 The 22 November version of Paper B reported that endorsement rises with the number of device rules a school imposes, and read that as a dose response. It does not survive inspection, and the manuscript now reports the null as a finding. Holding the ban constant, the five other rules give 0.003 points per rule, standard error 0.005, p = 0.45; the departure from linearity is significant, Wald 24.99 on 5 degrees of freedom, p = 0.00014; and the same null holds inside ban schools and inside no-ban schools separately. The apparent gradient is the ban, which correlates with the rule count at 0.41. See `15_dose2.py`.
