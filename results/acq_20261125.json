@@ -1,0 +1,507 @@
+{
+ "items": [
+  {
+   "beta": 0.07810209356519475,
+   "se": 0.01146693115449364,
+   "p": 9.687413759007316e-12,
+   "n": 229966,
+   "n_countries": 45,
+   "sd": 0.9107924732766985,
+   "item": "IC179Q01JA",
+   "battery": "Device rules (IC179)",
+   "key": "n/a"
+  },
+  {
+   "beta": 0.07152388794912284,
+   "se": 0.015103800510497825,
+   "p": 2.185270747984073e-06,
+   "n": 228980,
+   "n_countries": 45,
+   "sd": 0.8965621961531544,
+   "item": "IC179Q02JA",
+   "battery": "Device rules (IC179)",
+   "key": "n/a"
+  },
+  {
+   "beta": 0.03665667840009671,
+   "se": 0.010280538835901886,
+   "p": 0.00036297231053447073,
+   "n": 228361,
+   "n_countries": 45,
+   "sd": 0.8346347964200884,
+   "item": "IC179Q03JA",
+   "battery": "Device rules (IC179)",
+   "key": "n/a"
+  },
+  {
+   "beta": 0.06083752708400726,
+   "se": 0.012754742557681517,
+   "p": 1.8441207349159815e-06,
+   "n": 227599,
+   "n_countries": 45,
+   "sd": 0.8767478934768784,
+   "item": "IC179Q04JA",
+   "battery": "Device rules (IC179)",
+   "key": "n/a"
+  },
+  {
+   "beta": 0.0655666329990257,
+   "se": 0.011336040517519621,
+   "p": 7.298419547909069e-09,
+   "n": 227929,
+   "n_countries": 45,
+   "sd": 0.8913243562555567,
+   "item": "IC179Q05JA",
+   "battery": "Device rules (IC179)",
+   "key": "n/a"
+  },
+  {
+   "beta": 0.039327315732705856,
+   "se": 0.013454556225314723,
+   "p": 0.0034670565575107438,
+   "n": 228164,
+   "n_countries": 45,
+   "sd": 0.9226948413849567,
+   "item": "IC179Q06JA",
+   "battery": "Device rules (IC179)",
+   "key": "n/a"
+  },
+  {
+   "beta": 0.001516415638630659,
+   "se": 0.013952917577634547,
+   "p": 0.9134555917750553,
+   "n": 95250,
+   "n_countries": 43,
+   "sd": 0.9111059988188934,
+   "item": "ST307Q01JA",
+   "battery": "Perseverance (ST307)",
+   "key": "forward"
+  },
+  {
+   "beta": -0.004139454734205362,
+   "se": 0.012230567007572699,
+   "p": 0.735022909425826,
+   "n": 94572,
+   "n_countries": 43,
+   "sd": 0.9261101500300924,
+   "item": "ST307Q02JA",
+   "battery": "Perseverance (ST307)",
+   "key": "forward"
+  },
+  {
+   "beta": -0.00014808425015493977,
+   "se": 0.011775098741857457,
+   "p": 0.9899660270308286,
+   "n": 100942,
+   "n_countries": 43,
+   "sd": 0.957848608818783,
+   "item": "ST307Q03JA",
+   "battery": "Perseverance (ST307)",
+   "key": "forward"
+  },
+  {
+   "beta": -0.010627901593089729,
+   "se": 0.014153529751916184,
+   "p": 0.4527121556076854,
+   "n": 102668,
+   "n_countries": 43,
+   "sd": 0.9321919137374396,
+   "item": "ST307Q05JA",
+   "battery": "Perseverance (ST307)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.008419290389278722,
+   "se": 0.01307404539417143,
+   "p": 0.5195950180062081,
+   "n": 101227,
+   "n_countries": 43,
+   "sd": 0.9288630751853257,
+   "item": "ST307Q08JA",
+   "battery": "Perseverance (ST307)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.004266286952054329,
+   "se": 0.01213796232493874,
+   "p": 0.7252260523937433,
+   "n": 91243,
+   "n_countries": 43,
+   "sd": 0.8673971240047789,
+   "item": "ST307Q09JA",
+   "battery": "Perseverance (ST307)",
+   "key": "forward"
+  },
+  {
+   "beta": -0.0037552118495272143,
+   "se": 0.01183035354136847,
+   "p": 0.7509235849128355,
+   "n": 109897,
+   "n_countries": 43,
+   "sd": 1.0085534910136973,
+   "item": "ST307Q04JA",
+   "battery": "Perseverance (ST307)",
+   "key": "reverse"
+  },
+  {
+   "beta": 0.009652553797565024,
+   "se": 0.011639431959534458,
+   "p": 0.40693598933644143,
+   "n": 111828,
+   "n_countries": 43,
+   "sd": 0.98826924262198,
+   "item": "ST307Q06JA",
+   "battery": "Perseverance (ST307)",
+   "key": "reverse"
+  },
+  {
+   "beta": -0.0060004518158791285,
+   "se": 0.012224711559949489,
+   "p": 0.6235353119456083,
+   "n": 108554,
+   "n_countries": 43,
+   "sd": 1.0109535939625331,
+   "item": "ST307Q07JA",
+   "battery": "Perseverance (ST307)",
+   "key": "reverse"
+  },
+  {
+   "beta": -0.0272785878099047,
+   "se": 0.011851766964954756,
+   "p": 0.02135506861583424,
+   "n": 109558,
+   "n_countries": 43,
+   "sd": 1.0185257896257862,
+   "item": "ST307Q10JA",
+   "battery": "Perseverance (ST307)",
+   "key": "reverse"
+  },
+  {
+   "beta": 0.000321570074888385,
+   "se": 0.014429467504732145,
+   "p": 0.982220094996858,
+   "n": 90789,
+   "n_countries": 43,
+   "sd": 0.9092383159416283,
+   "item": "ST309Q01JA",
+   "battery": "Self-control (ST309)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.016030538553991332,
+   "se": 0.012565952947824094,
+   "p": 0.20205730037143513,
+   "n": 92454,
+   "n_countries": 43,
+   "sd": 0.8656426500364981,
+   "item": "ST309Q04JA",
+   "battery": "Self-control (ST309)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.015109718055658465,
+   "se": 0.012692352375431898,
+   "p": 0.23386625402750788,
+   "n": 101936,
+   "n_countries": 43,
+   "sd": 0.9797460298339616,
+   "item": "ST309Q05JA",
+   "battery": "Self-control (ST309)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.009834117210703772,
+   "se": 0.012146231840298586,
+   "p": 0.41814512056663666,
+   "n": 98840,
+   "n_countries": 43,
+   "sd": 0.8902010303019949,
+   "item": "ST309Q06JA",
+   "battery": "Self-control (ST309)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.0008214754212364759,
+   "se": 0.011112369322270062,
+   "p": 0.9410705272176343,
+   "n": 93809,
+   "n_countries": 43,
+   "sd": 0.9121456794689554,
+   "item": "ST309Q08JA",
+   "battery": "Self-control (ST309)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.0009285688638339133,
+   "se": 0.013964963015711809,
+   "p": 0.9469855256501749,
+   "n": 95794,
+   "n_countries": 43,
+   "sd": 0.881561539538799,
+   "item": "ST309Q10JA",
+   "battery": "Self-control (ST309)",
+   "key": "forward"
+  },
+  {
+   "beta": -0.006455761299243693,
+   "se": 0.01319672164754591,
+   "p": 0.6247041289967362,
+   "n": 96963,
+   "n_countries": 43,
+   "sd": 1.010337509120948,
+   "item": "ST309Q02JA",
+   "battery": "Self-control (ST309)",
+   "key": "reverse"
+  },
+  {
+   "beta": 0.009485016523163891,
+   "se": 0.010837143879898934,
+   "p": 0.38144761417622697,
+   "n": 107091,
+   "n_countries": 43,
+   "sd": 1.0095385624351827,
+   "item": "ST309Q03JA",
+   "battery": "Self-control (ST309)",
+   "key": "reverse"
+  },
+  {
+   "beta": 0.00746763477380941,
+   "se": 0.011353695100082495,
+   "p": 0.5107134022324421,
+   "n": 109241,
+   "n_countries": 43,
+   "sd": 0.973742576279908,
+   "item": "ST309Q07JA",
+   "battery": "Self-control (ST309)",
+   "key": "reverse"
+  },
+  {
+   "beta": -0.003965460559701399,
+   "se": 0.012509263096919758,
+   "p": 0.7512421368819225,
+   "n": 105847,
+   "n_countries": 43,
+   "sd": 0.9905568591001451,
+   "item": "ST309Q09JA",
+   "battery": "Self-control (ST309)",
+   "key": "reverse"
+  },
+  {
+   "beta": -0.0049349333886494415,
+   "se": 0.011376755815948339,
+   "p": 0.6644530418553347,
+   "n": 85820,
+   "n_countries": 43,
+   "sd": 0.8763218574703262,
+   "item": "ST301Q01JA",
+   "battery": "Curiosity (ST301)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.0038097504703308396,
+   "se": 0.01220351358632653,
+   "p": 0.7549001440025904,
+   "n": 100205,
+   "n_countries": 43,
+   "sd": 0.9660028668098195,
+   "item": "ST301Q02JA",
+   "battery": "Curiosity (ST301)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.006118073953809324,
+   "se": 0.009787171872270324,
+   "p": 0.5318978630504876,
+   "n": 87810,
+   "n_countries": 43,
+   "sd": 0.7703930652749947,
+   "item": "ST301Q04JA",
+   "battery": "Curiosity (ST301)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.008955084277961108,
+   "se": 0.011817003556479156,
+   "p": 0.4485626670853148,
+   "n": 100335,
+   "n_countries": 43,
+   "sd": 0.8636789696088697,
+   "item": "ST301Q05JA",
+   "battery": "Curiosity (ST301)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.02449577438654764,
+   "se": 0.011240776987650875,
+   "p": 0.02931765174249013,
+   "n": 99674,
+   "n_countries": 43,
+   "sd": 0.8969176967530038,
+   "item": "ST301Q06JA",
+   "battery": "Curiosity (ST301)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.016448199241443574,
+   "se": 0.011843733132252692,
+   "p": 0.16490326605553907,
+   "n": 102117,
+   "n_countries": 43,
+   "sd": 0.9412842018733132,
+   "item": "ST301Q07JA",
+   "battery": "Curiosity (ST301)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.006930433320354303,
+   "se": 0.011080563241730908,
+   "p": 0.5316701269229208,
+   "n": 105687,
+   "n_countries": 43,
+   "sd": 0.9723611440961698,
+   "item": "ST301Q03JA",
+   "battery": "Curiosity (ST301)",
+   "key": "reverse"
+  },
+  {
+   "beta": -0.03193268143310215,
+   "se": 0.009388237450782341,
+   "p": 0.0006705391696396385,
+   "n": 200925,
+   "n_countries": 45,
+   "sd": 0.8067323762323297,
+   "item": "ST034Q02TA",
+   "battery": "Sense of belonging (ST034)",
+   "key": "forward"
+  },
+  {
+   "beta": -0.0038897244420940053,
+   "se": 0.010748397195174592,
+   "p": 0.7174351382122885,
+   "n": 200488,
+   "n_countries": 45,
+   "sd": 0.7773493737109114,
+   "item": "ST034Q03TA",
+   "battery": "Sense of belonging (ST034)",
+   "key": "forward"
+  },
+  {
+   "beta": -0.01021520401979317,
+   "se": 0.008184956451872687,
+   "p": 0.21201412872460762,
+   "n": 200017,
+   "n_countries": 45,
+   "sd": 0.6818458865483518,
+   "item": "ST034Q05TA",
+   "battery": "Sense of belonging (ST034)",
+   "key": "forward"
+  },
+  {
+   "beta": 0.005469343968560556,
+   "se": 0.007749552827382624,
+   "p": 0.4803358308050918,
+   "n": 200564,
+   "n_countries": 45,
+   "sd": 0.8306777979979657,
+   "item": "ST034Q01TA",
+   "battery": "Sense of belonging (ST034)",
+   "key": "reverse"
+  },
+  {
+   "beta": 0.01382433747025535,
+   "se": 0.00927532226830518,
+   "p": 0.13610784085903652,
+   "n": 200070,
+   "n_countries": 45,
+   "sd": 0.8264456874245207,
+   "item": "ST034Q04TA",
+   "battery": "Sense of belonging (ST034)",
+   "key": "reverse"
+  },
+  {
+   "beta": 0.010325702402679571,
+   "se": 0.007685835229448778,
+   "p": 0.17911927188299695,
+   "n": 200630,
+   "n_countries": 45,
+   "sd": 0.8423080221864957,
+   "item": "ST034Q06TA",
+   "battery": "Sense of belonging (ST034)",
+   "key": "reverse"
+  }
+ ],
+ "summary": [
+  {
+   "battery": "Device rules (IC179)",
+   "key": "n/a",
+   "k_items": 6,
+   "mean_beta": 0.05866902262169219,
+   "n_positive": 6,
+   "n_sig": 6
+  },
+  {
+   "battery": "Perseverance (ST307)",
+   "key": "forward",
+   "k_items": 6,
+   "mean_beta": -0.00011890793291438693,
+   "n_positive": 3,
+   "n_sig": 0
+  },
+  {
+   "battery": "Perseverance (ST307)",
+   "key": "reverse",
+   "k_items": 4,
+   "mean_beta": -0.006845424419436504,
+   "n_positive": 1,
+   "n_sig": 1
+  },
+  {
+   "battery": "Self-control (ST309)",
+   "key": "forward",
+   "k_items": 6,
+   "mean_beta": 0.00717433136338539,
+   "n_positive": 6,
+   "n_sig": 0
+  },
+  {
+   "battery": "Self-control (ST309)",
+   "key": "reverse",
+   "k_items": 4,
+   "mean_beta": 0.0016328573595070523,
+   "n_positive": 2,
+   "n_sig": 0
+  },
+  {
+   "battery": "Curiosity (ST301)",
+   "key": "forward",
+   "k_items": 6,
+   "mean_beta": 0.009148658156907174,
+   "n_positive": 5,
+   "n_sig": 1
+  },
+  {
+   "battery": "Curiosity (ST301)",
+   "key": "reverse",
+   "k_items": 1,
+   "mean_beta": 0.006930433320354303,
+   "n_positive": 1,
+   "n_sig": 0
+  },
+  {
+   "battery": "Sense of belonging (ST034)",
+   "key": "forward",
+   "k_items": 3,
+   "mean_beta": -0.015345869964996442,
+   "n_positive": 0,
+   "n_sig": 1
+  },
+  {
+   "battery": "Sense of belonging (ST034)",
+   "key": "reverse",
+   "k_items": 3,
+   "mean_beta": 0.00987312794716516,
+   "n_positive": 3,
+   "n_sig": 0
+  }
+ ]
+}
